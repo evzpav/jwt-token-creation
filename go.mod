@@ -1,4 +1,4 @@
-module gitlab.com/evzpav/jwt-token-creation
+module github.com/evzpav/jwt-token-creation
 
 go 1.12
 
